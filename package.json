@@ -1,0 +1,23 @@
+{
+  "name": "a02-nasyyu",
+  "version": "1.0.0",
+  "description": "like building a house",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nasyyu: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@github.com/jdmar3-comp426/a02-nasyyu.git"
+  },
+  "author": "Natalie Yuziuk",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-nasyyu/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-nasyyu#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "bulma": "^0.9.3"
+  }
+}
